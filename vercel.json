@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "turbo build --filter=web",
+  "outputDirectory": "apps/web/.next",
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_API_BASE_URL": "http://localhost:3001"
+  }
+}
+

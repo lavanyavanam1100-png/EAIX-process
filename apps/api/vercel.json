@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "turbo build --filter=api",
+  "outputDirectory": "apps/api/dist",
+  "env": {
+    "MYSQL_ENABLED": "false",
+    "PORT": "3001"
+  }
+}
+
