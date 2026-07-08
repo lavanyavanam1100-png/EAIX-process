@@ -1,0 +1,36 @@
+:root {
+  --ink-950: #071018;
+  --ink-900: #0a1620;
+  --teal-500: #16c6b0;
+  --coral-500: #ff8a65;
+  --mist-100: #d9e9f4;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--mist-100);
+  background:
+    radial-gradient(circle at 18% -8%, rgba(22, 198, 176, 0.17), transparent 40%),
+    radial-gradient(circle at 90% 0%, rgba(255, 138, 101, 0.15), transparent 35%),
+    linear-gradient(180deg, var(--ink-900) 0%, var(--ink-950) 100%);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+html {
+  color-scheme: dark;
+}

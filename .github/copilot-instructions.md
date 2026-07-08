@@ -1,0 +1,12 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created. Completed.
+- [x] Clarify Project Requirements. Completed from user-provided stack and UX direction.
+- [x] Scaffold the Project. Turborepo + Next.js web + NestJS api created.
+- [x] Customize the Project. Role/department/section seeds and premium UI shell implemented.
+- [x] Install Required Extensions. No extensions explicitly required.
+- [x] Compile the Project. Lint, typecheck, tests, and build completed for web and api.
+- [x] Create and Run Task. VS Code task EAIX: Dev (Web + API) created and executed.
+- [x] Launch the Project. Web and API started successfully.
+- [x] Ensure Documentation is Complete. README and setup notes updated.
+- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
